@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    font-style: italic;
+    color: green;
+}
